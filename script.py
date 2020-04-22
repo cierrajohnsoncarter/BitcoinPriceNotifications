@@ -1,5 +1,3 @@
-# This example uses Python 2.7 and the python-request library.
-
 from requests import Request, Session
 from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 import json
